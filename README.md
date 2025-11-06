@@ -1,4 +1,4 @@
-# spring-data-jpa (kısa)
+# spring-data-jpa
 
 Basit bir Spring Boot + Spring Data JPA örneği.
 
